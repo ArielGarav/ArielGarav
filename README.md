@@ -26,4 +26,4 @@
 
 
 
-   ![AboutMe](https://user-images.githubusercontent.com/103901523/206469615-ec774d2d-0605-4b88-9ca1-1cc573fbbe5a.png)
+   ![AboutMe](https://res.cloudinary.com/debcgjfr8/image/upload/v1695100597/PortFolio/Git%20Profile%7D/aczdayrjed35hpuz1xnq.jpg)
